@@ -446,7 +446,7 @@ margin-left: 5px;
 #copyright {
 	margin:0 auto;	
 	position: fixed;
-	right: 40px;
+	right: 0px;
 	bottom: 25px;
 	z-index:0;
 }
